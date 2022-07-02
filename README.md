@@ -1,19 +1,17 @@
 ## Hi! I'm Nakemo Be Welcome to check everything! 👋
 
 <div align="center">
-  <a href="https://github.com/Nakemo">
+  <a href="https://github.com/Nakemo"> </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nakemo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakemo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ##
   
-<div>
   >Hello World!
   
-  i'm freelancer developer that like to focus in games creations. but i also like to learn more & more about other Programming languages.
+  >i'm freelancer developer that like to focus in games creations. but i also like to learn more & more about other Programming languages.
   My mastery is in C#. But i can lead on it with other languages too. My graduation life is being focus in a Computer Science course
-</div>
 
   ##
 
