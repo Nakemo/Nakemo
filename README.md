@@ -9,12 +9,10 @@
   ##
   
 <div>
-  <p>
-  Hello World!
+  >Hello World!
   
   i'm freelancer developer that like to focus in games creations. but i also like to learn more & more about other Programming languages.
   My mastery is in C#. But i can lead on it with other languages too. My graduation life is being focus in a Computer Science course
-  </p>
 </div>
 
   ##
