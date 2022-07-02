@@ -1,9 +1,9 @@
 ## Hi! I'm Nakemo Be Welcome to check everything! 👋
 
 <div align="center">
-  <a href="https://github.com/MatheusNakati">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusNakati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNakati&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Nakemo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nakemo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakemo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ##
@@ -39,5 +39,5 @@
   <a href="https://discord.gg/7RbQXya5gc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
   <a href = "mailto:contactnakemo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/MatheusNakati/Nakemo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Nakemo/Nakemo/blob/output/github-contribution-grid-snake.svg)
 </div>
